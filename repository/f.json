@@ -34,6 +34,17 @@
 			]
 		},
 		{
+			"name": "Fabric",
+			"details": "https://github.com/M-industries/FabricForSublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3143",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Fabric Engine - KL Language Support",
 			"details": "https://github.com/fabric-engine/Sublime-KL",
 			"previous_names": ["Creation Platform - KL Language Support"],
@@ -971,6 +982,17 @@
 			]
 		},
 		{
+			"name": "Flask Hello",
+			"details": "https://github.com/tanrax/SublimeFlaskHello",
+			"labels": ["auto-complete", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Flask Starter",
 			"details": "https://github.com/JoePriesto/Sublime-Flask-Starter",
 			"releases": [
@@ -1607,6 +1629,16 @@
 		{
 			"name": "Fuse",
 			"details": "https://github.com/fusetools/Fuse.SublimePlugin",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Fuse Snippets",
+			"details": "https://github.com/igorls/fuse-snippets",
 			"releases": [
 				{
 					"sublime_text": ">=3000",

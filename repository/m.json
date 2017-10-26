@@ -637,6 +637,18 @@
 			]
 		},
 		{
+			"name": "Material Design Lite Selectors Snippets",
+			"details": "https://github.com/rasy-js/material-design-lite-snippets",
+			"labels": ["snippets"],
+			"author": "Aliaksandr Radzevich",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Material Design Lite Snippets",
 			"details": "https://github.com/arindampradhan/material-lite-snippet",
 			"labels": ["snippets"],
@@ -754,6 +766,17 @@
 			"name": "Math Notes",
 			"details": "https://github.com/LemonPi/math-notes",
 			"labels": ["language syntax", "documentation", "notes"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "MathML",
+			"details": "https://github.com/Sensibility/MathML-Sublime-Plugin",
+			"labels": ["language syntax", "syntax", "MathML-syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",

@@ -1414,6 +1414,17 @@
 			]
 		},
 		{
+			"name": "CloseMinimapOnMultiView",
+			"details": "https://github.com/alkuzad/CloseMinimapOnMultiView",
+			"labels": ["code navigation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CloseOtherWindows",
 			"details": "https://github.com/werkzeugh/CloseOtherWindows_SublimePlugin",
 			"releases": [
@@ -3475,6 +3486,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Creeper Reverse Polish Language",
+			"details": "https://github.com/KubeRoot/Sublime-CRPL",
+			"labels": ["language syntax", "completions"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
